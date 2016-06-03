@@ -1,6 +1,8 @@
 # Portfolio
 This is a sample of some of the class-related and independent work I've done related to Computer Science, as well as a copy of my resume.
 
+**Some personal information has been removed from my resume.**
+
 ![](http://i.imgur.com/vkU2yzK.png)
 
 This is a recording of a Unity game about a week or so into development (as of when the recording was made).  It's a simple game about swinging around, with a semi-realistic simulation of elastic physics.  You can see a sample of the script controlling the player character in the Player.cs.
