@@ -1,0 +1,78 @@
+Seq #   Data      Checksum  Comments            
+0       (Picard   -23759    Packet ACKed.       
+1       is re-di  6407      Packet ACKed.       
+2       scoverin  2900      Packet ACKed.       
+3       g his po  -5301     Packet ACKed.       
+4       ssession  18018     Packet ACKed.       
+5       s when t  -25172    Packet ACKed.       
+6       he doorb  -16247    Packet ACKed.       
+7       ell ring  10984     Packet ACKed.       
+8       s. He ha  -23977    Packet ACKed.       
+9       s to thi  -7771     Packet ACKed.       
+10      nk what   -12066    Packet ACKed.       
+11      that sou  -28700    Packet ACKed.       
+12      nd is) |  -17560    Packet ACKed.       
+13       PICARD:  3608      Packet ACKed.       
+14       Come. |  11854     Packet ACKed.       
+15       RIKER:   -25974    Packet ACKed.       
+16      Hello, s  -13896    Packet ACKed.       
+17      ir. Feel  28301     Packet ACKed.       
+18      ing bett  23648     Packet ACKed.       
+19      er? | PI  25615     Packet ACKed.       
+20      CARD: Ye  4593      Packet ACKed.       
+21      s. Yes,   -10001    Packet ACKed.       
+22      thank yo  -26410    Packet ACKed.       
+23      u. But I  5127      Packet ACKed.       
+24       find I'  15038     Packet ACKed.       
+25      m having  -29723    Packet ACKed.       
+26       to redi  -19067    Packet ACKed.       
+27      scover t  -9244     Packet ACKed.       
+28      hat this  31904     Packet ACKed.       
+29       is real  -19396    Packet ACKed.       
+30      ly my ho  -269      Packet ACKed.       
+31      me. | RI  1442      Packet ACKed.       
+32      KER: We   17999     Packet ACKed.       
+33      were abl  20160     Packet ACKed.       
+34      e to ope  -3810     Packet ACKed.       
+35      n the pr  24824     Packet ACKed.       
+36      obe and   24145     Packet ACKed.       
+37      examine   -8569     Packet ACKed.       
+38      it. Appa  22865     Packet ACKed.       
+39      rently,   11285     Packet ACKed.       
+40      whatever  -1487     Packet ACKed.       
+41       had loc  -27399    Packet ACKed.       
+42      ked onto  6220      Packet ACKed.       
+43       you mus  -12735    Packet ACKed.       
+44      t have b  -9504     Packet ACKed.       
+45      een self  -30809    Packet ACKed.       
+46       termina  -21613    Packet ACKed.       
+47      ting. It  13431     Packet ACKed.       
+48      's not f  -30173    Packet ACKed.       
+49      unctioni  -31207    Packet ACKed.       
+50      ng any l  -10347    Packet ACKed.       
+51      onger. W  -1018     Packet ACKed.       
+52      e found   -17228    Packet ACKed.       
+53      this ins  5490      Packet ACKed.       
+54      ide. | (  -2614     Packet ACKed.       
+55      Riker ha  15042     Packet ACKed.       
+56      nds him   -9497     Packet ACKed.       
+57      a box an  -31939    Packet ACKed.       
+58      d leaves  -14256    Packet ACKed.       
+59      . Inside  32113     Packet ACKed.       
+60       it is a  -7024     Packet ACKed.       
+61       penny w  -27351    Packet ACKed.       
+62      histle w  4409      Packet ACKed.       
+63      ith a ta  -19531    Packet ACKed.       
+64      ssel. Pi  -6926     Packet ACKed.       
+65      card clu  10240     Packet ACKed.       
+66      tches it  11562     Packet ACKed.       
+67       to his   -5764     Packet ACKed.       
+68      chest fo  -31147    Packet ACKed.       
+69      r a mome  -30631    Packet ACKed.       
+70      nt, then  9587      Packet ACKed.       
+71       plays h  17770     Packet ACKed.       
+72      is Skye   10292     Packet ACKed.       
+73      Boat son  -19957    Packet ACKed.       
+74      g variat  -22123    Packet ACKed.       
+75      ion on i  7447      Packet ACKed.       
+76      t)        14190     Packet ACKed.       
