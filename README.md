@@ -3,7 +3,7 @@ This is a sample of some of the class-related and independent work I've done rel
 
 **Some personal information has been removed from my resume.**
 
-![](http://i.imgur.com/vkU2yzK.png)
+![](https://i.imgur.com/dNurzlv.gif)
 
 This is a recording of a Unity game about a week or so into development (as of when the recording was made).  It's a simple game about swinging around, with a semi-realistic simulation of elastic physics.  You can see a sample of the script controlling the player character in the Player.cs.
 
@@ -23,3 +23,11 @@ This was a group project I was assigned in an elective on low-level computer and
 -----
 
 In /Networks-Proj-3, you can find a project from my computer networks class.  It's designed to simulate sending a file across a network by breaking it into 8-bit chunks, packaging it with an HTTP header, and then extracting the data.  I was also required to simulate packet loss and corrupted data, so the program is designed to use ACK signals and checksums to verify the data has been received and that it has not been altered.
+
+-----
+
+## Miscellaneous Unity Projects
+
+![](https://i.imgur.com/SlybF19.gif)
+
+![](https://i.imgur.com/mGUiB5z.png)
