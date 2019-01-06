@@ -3,6 +3,14 @@ This is a sample of some of the class-related and independent work I've done rel
 
 **Some personal information has been removed from my resume.**
 
+![](https://i.imgur.com/W0PplEg.gif)
+
+This is Age of Clicking, an incremental game written in Angular 6, using the Phaser graphics library. It's loosely based around RTS games like Age of Empires with elements of tower defense. In the image above, you can see the player's units automatically harvesting and collecting resources for the player.
+
+You can check out the most recent in-development build [here](http://ratheronfire.github.io/testing), or browse the source code [here](https://github.com/Ratheronfire/AgeOfClicking).
+
+-----
+
 ![](https://i.imgur.com/dNurzlv.gif)
 
 This is a recording of a Unity game about a week or so into development (as of when the recording was made).  It's a simple game about swinging around, with a semi-realistic simulation of elastic physics.  You can see a sample of the script controlling the player character in the Player.cs.
